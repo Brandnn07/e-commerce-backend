@@ -22,6 +22,14 @@ _______________________________
 
 Once installed, run npm run seeds then run npm start, there is a tutorial below on how the program works
 
+## Tutorial
+_______________________________
+
+seeds/database tutorial via VSCode & MYSQL Workbench: https://youtu.be/xW6Wy1sLZYA
+category tutorial via postman: https://youtu.be/6Wep7NldAdE
+products tutorial via postman: https://youtu.be/JiLPR0IJuhQ
+tags tutorial via postman: https://youtu.be/lgH0b2MxVfo
+
 ## Github
 _______________________________
 
@@ -31,9 +39,3 @@ Brandnn07
 _______________________________
 
 brandcarter4@gmail.com
-
-
-seeds link: https://youtu.be/xW6Wy1sLZYA
-category link: https://youtu.be/6Wep7NldAdE
-products link: https://youtu.be/JiLPR0IJuhQ
-tags link: https://youtu.be/lgH0b2MxVfo
